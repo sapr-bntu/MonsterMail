@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Button.qml</file>
+        <file>Directory.qml</file>
+        <file>FormNewMessage.qml</file>
+        <file>TextInputDesu.qml</file>
+        <file>mainform.qml</file>
+        <file>MessagesList.qml</file>
+        <file>MessageView.qml</file>
+        <file>helvetica.ttf</file>
+        <file>segoe.ttf</file>
+        <file>awesome.ttf</file>
+        <file>Settings.qml</file>
+        <file>MainWindow.qml</file>
+        <file>CircleButton.qml</file>
+        <file>Input.qml</file>
+        <file>InputDescription.qml</file>
+    </qresource>
+</RCC>
