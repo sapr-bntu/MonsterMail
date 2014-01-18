@@ -1,0 +1,55 @@
+X-Real-To: testacc111@open.by
+Return-Path: <Polyashuk@yandex.by>
+Received: from [193.232.92.5] (HELO i.open.by)
+  by t2.open.by (CommuniGate Pro SMTP 5.1.16)
+  with ESMTP id 47476412 for testacc111@open.by; Mon, 17 Dec 2012 01:21:22 +0300
+Received: from forward11.mail.yandex.net (forward11.mail.yandex.net [95.108.130.93])
+	by i.open.by (8.14.1/8.14.1) with ESMTP id qBGMLMKJ032522
+	for <testacc111@open.by>; Mon, 17 Dec 2012 01:21:22 +0300 (FET)
+	(envelope-from Polyashuk@yandex.by)
+Received: from web9f.yandex.ru (web9f.yandex.ru [95.108.131.225])
+	by forward11.mail.yandex.net (Yandex) with ESMTP id 9154AE81079
+	for <testacc111@open.by>; Mon, 17 Dec 2012 02:21:22 +0400 (MSK)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by web9f.yandex.ru (Yandex) with ESMTP id 5920BF90061;
+	Mon, 17 Dec 2012 02:21:22 +0400 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail;
+	t=1355696482; bh=hE7vlphCGVdhcRgbenBRxxd9TudfvdT1pprMvpgS8YE=;
+	h=From:To:Subject:Date;
+	b=hdvfErunXDYYot4dt3YwuCUPWLeSAdJCZNE6rc79gbhN33RyR+izOfmF3KLhqgIfN
+	 Tglj9a2UVUgbJA2xmT8dJp64ctxBO4HC54UmyP57izn+LiLLAqGzu7eogTBVyAAoT6
+	 aOPFgvoBVSE962yV0PdsXMf6Ymd3Ng6/qDw3x3nM=
+Received: from [195.50.30.204] ([195.50.30.204]) by web9f.yandex.ru with HTTP;
+	Mon, 17 Dec 2012 02:21:22 +0400
+From: Polyachok Sergey <polyashuk@yandex.by>
+To: testacc111@open.by
+Subject: polyachok
+MIME-Version: 1.0
+Message-Id: <2772751355696482@web9f.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 17 Dec 2012 01:21:22 +0300
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain
+X-SpamTest-Envelope-From: Polyashuk@yandex.by
+X-SpamTest-Group-ID: 00000000
+X-SpamTest-Info: Profiles 40347 [Dec 17 2012]
+X-SpamTest-Method: none
+X-SpamTest-Rate: 0
+X-SpamTest-SPF: pass
+X-SpamTest-Status: Not detected
+X-SpamTest-Status-Extended: not_detected
+X-SpamTest-Version: SMTP-Filter Version 3.0.0 [0284], KAS30/Release
+X-Virus-Scanned: clamav-milter 0.95.3 at i.open.by
+X-Virus-Status: Clean
+X-EsetId: 30605B33AA247D692F665B61A3713E38
+
+bla-bla-bla
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 7824 (20121221) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.esetnod32.ru/.ml
+
+
+

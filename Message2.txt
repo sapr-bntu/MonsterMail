@@ -1,0 +1,68 @@
+X-Real-To: testacc111@open.by
+Return-Path: <Polyashuk@yandex.by>
+Received: from [193.232.92.5] (HELO i.open.by)
+  by t2.open.by (CommuniGate Pro SMTP 5.1.16)
+  with ESMTP id 47476861 for testacc111@open.by; Mon, 17 Dec 2012 01:41:17 +0300
+Received: from forward14.mail.yandex.net (forward14.mail.yandex.net [95.108.130.92])
+	by i.open.by (8.14.1/8.14.1) with ESMTP id qBGMfHkq036050
+	for <testacc111@open.by>; Mon, 17 Dec 2012 01:41:17 +0300 (FET)
+	(envelope-from Polyashuk@yandex.by)
+Received: from web9f.yandex.ru (web9f.yandex.ru [95.108.131.225])
+	by forward14.mail.yandex.net (Yandex) with ESMTP id E3E391981E5B
+	for <testacc111@open.by>; Mon, 17 Dec 2012 02:41:16 +0400 (MSK)
+Received: from 127.0.0.1 (localhost.localdomain [127.0.0.1])
+	by web9f.yandex.ru (Yandex) with ESMTP id A9732F90061;
+	Mon, 17 Dec 2012 02:41:16 +0400 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail;
+	t=1355697676; bh=K7YOwELw3GfgIHs2O2TFlXDYajGtC9QXkSF4wA3Q9yo=;
+	h=From:To:Subject:Date;
+	b=WULlu6z6rCFMoqoXAxG47iMQPet12XkofKSVnMetihwjs2EKBNjiiwZgdTcP2Xk7A
+	 0eksnh7jTjxKAZDAsJAeyq7S3LmM0rD5/AQdzlHwK4ZgD+vCB3qtAzgpPi3GW+x/gT
+	 u2eFzQM1wblkUBbtUBKOdoeyPF7LtX0StVWb7c5Y=
+Received: from [195.50.30.204] ([195.50.30.204]) by web9f.yandex.ru with HTTP;
+	Mon, 17 Dec 2012 02:41:16 +0400
+From: Polyachok Sergey <polyashuk@yandex.by>
+To: testacc111@open.by
+Subject: ot_nexer_delat
+MIME-Version: 1.0
+Message-Id: <2775431355697676@web9f.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 17 Dec 2012 01:41:16 +0300
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=utf-8
+X-SpamTest-Envelope-From: Polyashuk@yandex.by
+X-SpamTest-Group-ID: 00000000
+X-SpamTest-Info: Profiles 40348 [Dec 17 2012]
+X-SpamTest-Method: none
+X-SpamTest-Rate: 0
+X-SpamTest-SPF: pass
+X-SpamTest-Status: Not detected
+X-SpamTest-Status-Extended: not_detected
+X-SpamTest-Version: SMTP-Filter Version 3.0.0 [0284], KAS30/Release
+X-Virus-Scanned: clamav-milter 0.95.3 at i.open.by
+X-Virus-Status: Clean
+X-EsetId: 30605B33AA247D692F665B61A3713E38
+
+VGhlIDE5NTAgQXRsYW50aWMgaHVycmljYW5lIHNlYXNvbiB3YXMgdGhlIGZpcnN0IHllYXIgaW4g
+dGhlIEF0bGFudGljIGh1cnJpY2FuZSBkYXRhYmFzZSAoSFVSREFUKSBpbiB3aGljaCBzdG9ybXMg
+d2VyZSBnaXZlbiBuYW1lcyBieSB0aGUgVW5pdGVkIFN0YXRlcyBBaXIgRm9yY2UgZnJvbSB0aGUg
+Sm9pbnQgQXJteS9OYXZ5IFBob25ldGljIEFscGhhYmV0LiBJdCB3YXMgYW4gYWN0aXZlIHNlYXNv
+biB3aXRoIHNpeHRlZW4gdHJvcGljYWwgc3Rvcm1zLCBlbGV2ZW4gb2Ygd2hpY2ggZGV2ZWxvcGVk
+IGludG8gaHVycmljYW5lcy4gRWlnaHQgb2YgdGhlc2UgaHVycmljYW5lcyB3ZXJlIGludGVuc2Ug
+ZW5vdWdoIHRvIGJlIGNsYXNzaWZpZWQgYXMgbWFqb3IgaHVycmljYW5lc+KAlGEgZGVub21pbmF0
+aW9uIHJlc2VydmVkIGZvciBzdG9ybXMgdGhhdCBhdHRhaW5lZCBzdXN0YWluZWQgd2luZHMgZXF1
+aXZhbGVudCB0byBhIENhdGVnb3J5IDMgb3IgZ3JlYXRlciBvbiB0aGUgcHJlc2VudC1kYXkgU2Fm
+ZmlyLVNpbXBzb24gc2NhbGUuIFRoZSBoaWdoIG51bWJlciBvZiBtYWpvciBodXJyaWNhbmVzIG1h
+a2UgMTk1MCB0aGUgaG9sZGVyIG9mIHRoZSByZWNvcmQgZm9yIHRoZSBtb3N0IHN5c3RlbXMgb2Yg
+c3VjaCBpbnRlbnNpdHkgaW4gYSBzaW5nbGUgc2Vhc29uLiBUaGUgbGFyZ2UgcXVhbnRpdHkgb2Yg
+c3Ryb25nIHN0b3JtcyBkdXJpbmcgdGhlIHllYXIgeWllbGRlZCB0aGUgaGlnaGVzdCBzZWFzb25h
+bCBhY2N1bXVsYXRlZCBjeWNsb25lIGVuZXJneSAoQUNFKSBvZiB0aGUgMjB0aCBjZW50dXJ5LiBU
+aGUgdHJvcGljYWwgY3ljbG9uZXMgb2YgdGhlIHNlYXNvbiBwcm9kdWNlZCBhIHRvdGFsIG9mIDg4
+IGZhdGFsaXRpZXMgYW5kICQzOC41IG1pbGxpb24gaW4gcHJvcGVydHkgZGFtYWdlLiBUaGUgZmly
+c3Qgb2ZmaWNpYWxseSBuYW1lZCBBdGxhbnRpYyBodXJyaWNhbmUgd2FzIEh1cnJpY2FuZSBBYmxl
+IChwYXRoIHBpY3R1cmVkKSwgd2hpY2ggZm9ybWVkIG9uIEF1Z3VzdCAxMiwgYnJ1c2hlZCB0aGUg
+Tm9ydGggQ2Fyb2xpbmEgY29hc3RsaW5lLCBhbmQgbGF0ZXIgbW92ZWQgYWNyb3NzIHNvdXRoZWFz
+dGVybiBDYW5hZGEuIFRoZSBzdHJvbmdlc3QgaHVycmljYW5lIG9mIHRoZSBzZWFzb24sIEh1cnJp
+Y2FuZSBEb2csIHJlYWNoZWQgdGhlIGVxdWl2YWxlbnQgb2YgYSBDYXRlZ29yeSA1IGh1cnJpY2Fu
+ZSBvbiB0aGUgU2FmZmlyLVNpbXBzb24gc2NhbGUsIGFuZCBjYXVzZWQgZXh0ZW5zaXZlIGRhbWFn
+ZSB0byB0aGUgTGVld2FyZCBJc2xhbmRzLiAoRnVsbCBhcnRpY2xlLi4uKQ==
